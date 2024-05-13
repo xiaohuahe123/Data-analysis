@@ -1,2 +1,2 @@
 1. Install Anaconda;
-2. Using JupterNotebook to oopen it.
+2. Using JupterNotebook to open it.
